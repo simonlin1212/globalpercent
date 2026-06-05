@@ -1,5 +1,5 @@
 ---
-name: global-percent
+name: globalpercent
 description: >-
   GlobalPercent — build a global-macro-probability panel for an investment research
   system. Merges public probability data from prediction markets (Polymarket + Kalshi),
@@ -11,7 +11,7 @@ description: >-
   (Python backend + React panel).
 ---
 
-> 📦 项目主页：https://github.com/simonlin1212/global-percent — 更新、反馈、支持作者
+> 📦 项目主页：https://github.com/simonlin1212/globalpercent — 更新、反馈、支持作者
 >
 > 作者：Simon 林 · 抖音「Simon林」· 公众号「硅基世纪」
 
@@ -117,4 +117,4 @@ Read `reference/apis.md` and `reference/architecture.md` next.
 
 ---
 
-> 📦 https://github.com/simonlin1212/global-percent — Star ⭐ 是最好的支持
+> 📦 https://github.com/simonlin1212/globalpercent — Star ⭐ 是最好的支持

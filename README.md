@@ -1,4 +1,4 @@
-# global-percent
+# globalpercent
 
 全球宏观预期概率面板 —— 2 数据源 · 5 端点 · 10 模块 · 零鉴权零账户
 
@@ -44,16 +44,16 @@ Kalshi events API ────┘        (question, prob_yes, change_24h, volume
 
 ```bash
 # 1. 创建 skill 目录
-mkdir -p ~/.claude/skills/global-percent
+mkdir -p ~/.claude/skills/globalpercent
 
 # 2. 把整个仓库克隆/下载进去（SKILL.md + code/ + reference/）
-git clone https://github.com/simonlin1212/global-percent.git \
-  ~/.claude/skills/global-percent
+git clone https://github.com/simonlin1212/globalpercent.git \
+  ~/.claude/skills/globalpercent
 ```
 
 然后对 AI 助手说一句：
 
-> 「用 global-percent 这份 skill，把一块全球宏观预期概率面板搭进我的 app。」
+> 「用 globalpercent 这份 skill，把一块全球宏观预期概率面板搭进我的 app。」
 
 它会读 `reference/apis.md`（端点 + 字段 + 每个坑）和 `reference/architecture.md`（设计 + 异步刷新 + 空拉不覆盖等铁律），再把 `code/` 里的后端 + 前端移植进你的技术栈。
 
@@ -106,7 +106,7 @@ git clone https://github.com/simonlin1212/global-percent.git \
 
 | 场景 | 说什么 |
 |------|--------|
-| 搭面板 | 「用 global-percent 把一块宏观预期概率面板搭进我的 dashboard」 |
+| 搭面板 | 「用 globalpercent 把一块宏观预期概率面板搭进我的 dashboard」 |
 | 只接 Polymarket | 「只接 Polymarket Gamma，先跑通地缘和 AI 两个模块」 |
 | 加 Kalshi 宏观 | 「再接上 Kalshi 的 Fed/CPI/就业，做成异步刷新」 |
 | 调分类 | 「帮我把 taxonomy 的关键词改成更偏 A 股投研的模块」 |
@@ -182,7 +182,7 @@ Kalshi 没有服务端成交量排序，热门市场被几千个一日体育/天
   <a href="https://buymeacoffee.com/simonlin1212">Buy Me a Coffee</a>
 </p>
 
-> 想接更多预期概率源（Manifold / 自定义）或更多模块？欢迎开 [Issue](https://github.com/simonlin1212/global-percent/issues) 提需求，赞助者的 Issue 优先处理。
+> 想接更多预期概率源（Manifold / 自定义）或更多模块？欢迎开 [Issue](https://github.com/simonlin1212/globalpercent/issues) 提需求，赞助者的 Issue 优先处理。
 
 ---
 
@@ -203,7 +203,7 @@ Kalshi 没有服务端成交量排序，热门市场被几千个一日体育/天
 <details>
 <summary><b>🇬🇧 English</b></summary>
 
-# global-percent
+# globalpercent
 
 A global-macro-probability panel — 2 sources · 5 endpoints · 10 modules · zero auth, zero account.
 
@@ -238,12 +238,12 @@ Kalshi events API ────┘        (question, prob_yes, change_24h, volume
 ## Quick Start
 
 ```bash
-mkdir -p ~/.claude/skills/global-percent
-git clone https://github.com/simonlin1212/global-percent.git \
-  ~/.claude/skills/global-percent
+mkdir -p ~/.claude/skills/globalpercent
+git clone https://github.com/simonlin1212/globalpercent.git \
+  ~/.claude/skills/globalpercent
 ```
 
-Then tell your agent: *"Use the global-percent skill to build a macro-probability panel into my app."* It reads `reference/apis.md` + `reference/architecture.md`, then ports `code/` into your stack (3 documented env-specific swap points: data dir / LLM client / UI components). Backend needs only `httpx`; translation is optional; frontend is React + echarts.
+Then tell your agent: *"Use the globalpercent skill to build a macro-probability panel into my app."* It reads `reference/apis.md` + `reference/architecture.md`, then ports `code/` into your stack (3 documented env-specific swap points: data dir / LLM client / UI components). Backend needs only `httpx`; translation is optional; frontend is React + echarts.
 
 ## 5 Endpoints (all public · no auth · read-only)
 
