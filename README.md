@@ -180,7 +180,7 @@ Kalshi 没有服务端成交量排序，热门市场被几千个一日体育/天
 如果这份 skill 帮到了你的投研工作流，欢迎请作者喝杯咖啡 ☕
 
 <p align="center">
-  <a href="https://buymeacoffee.com/simonlin1212">☕ Buy Me a Coffee</a>
+  <a href="https://buymeacoffee.com/simonlin1212"><img src="./assets/bmc-qr.png" width="180" alt="Buy Me a Coffee"></a>
 </p>
 
 > 想接更多预期概率源（Manifold / 自定义）或更多模块？欢迎开 [Issue](https://github.com/simonlin1212/globalpercent/issues) 提需求，赞助者的 Issue 优先处理。
