@@ -13,7 +13,7 @@ description: >-
 
 > 📦 项目主页：https://github.com/simonlin1212/globalpercent — 更新、反馈、支持作者
 >
-> 作者：Simon 林 · 抖音「Simon林」· 公众号「硅基世纪」
+> 作者：Simon 林 · X [@linsizhen](https://x.com/linsizhen) · TikTok [@simonlin0423](https://www.tiktok.com/@simonlin0423) · 邮箱：simonlin0423@gmail.com
 
 # GlobalPercent — a global-macro-probability panel for your research system
 
