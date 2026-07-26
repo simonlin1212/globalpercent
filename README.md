@@ -195,4 +195,4 @@ Kalshi 没有服务端成交量排序，热门市场被几千个一日体育/天
 
 [Apache License 2.0](./LICENSE) — 自由使用，注明出处即可。
 
-**作者：** Simon 林 · X [@linsizhen](https://x.com/linsizhen) · TikTok [@simonlin0423](https://www.tiktok.com/@simonlin0423) · 邮箱：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
+**作者：** Simon 林 · X [@linsizhen](https://x.com/linsizhen) · 邮箱：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
