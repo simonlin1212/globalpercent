@@ -48,6 +48,14 @@ Kalshi events API ────┘        (question, prob_yes, change_24h, volume
 
 ---
 
+## 作者正在寻找工作机会
+
+作者目前关注腾讯等大型科技企业在深圳的 AI 相关岗位，希望加入一支热爱 AI 开发的团队，继续从事 AI / Agent 产品开发、应用落地及 AI 咨询工作。
+
+联系：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
+
+---
+
 ## 快速开始
 
 **2 步，给你的 AI 助手喂这份 skill。**
