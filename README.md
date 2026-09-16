@@ -48,15 +48,6 @@ Kalshi events API ────┘        (question, prob_yes, change_24h, volume
 
 ---
 
-## 寻找深圳的 AI 工作机会
-
-作者目前正在寻找深圳的 AI 相关工作机会，重点关注腾讯等大型科技企业及金融机构的 **AI 投研产品、FDE 与 AI 咨询 / 解决方案岗位**。
-
-兼具金融机构从业经历与 AI 产品实战，持续构建金融市场数据工具和多智能体系统，开源项目累计获得 **17K+ GitHub Stars**。
-
-联系：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
-
----
 
 ## 快速开始
 
@@ -186,18 +177,6 @@ Kalshi 没有服务端成交量排序，热门市场被几千个一日体育/天
 ## 免责声明
 
 本项目仅提供**公开预期概率数据的获取与可视化工具**，是一块情绪 / 风险温度计，**不构成任何投资建议，也不是交易信号**。所有数据来自第三方公开 API，准确性与可用性以来源为准。市场有风险，决策需谨慎。
-
----
-
-## 赞赏
-
-如果这份 skill 帮到了你的投研工作流，欢迎请作者喝杯咖啡 ☕
-
-<p align="center">
-  <a href="https://buymeacoffee.com/simonlin1212"><img src="./assets/bmc-qr.png" width="180" alt="Buy Me a Coffee"></a>
-</p>
-
-> 想接更多预期概率源（Manifold / 自定义）或更多模块？欢迎开 [Issue](https://github.com/simonlin1212/globalpercent/issues) 提需求，赞助者的 Issue 优先处理。
 
 ---
 

@@ -81,15 +81,6 @@ Polymarket + Kalshi are the two free, no-auth, money-backed sources worth buildi
 
 ---
 
-## Open to AI Roles in Shenzhen
-
-The author is open to AI roles in Shenzhen, particularly in **AI-powered investment research products, Forward Deployed Engineering (FDE), and AI consulting or solutions** at Tencent, other leading technology companies, and financial institutions.
-
-He combines experience in financial institutions with hands-on AI product development, building open-source market data tools and multi-agent systems with **17K+ GitHub stars**.
-
-Contact: [simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
-
----
 
 ## Changelog
 
@@ -100,18 +91,6 @@ See [CHANGELOG.md](./CHANGELOG.md).
 ## Disclaimer
 
 This project provides tools to **fetch and visualize public expected-probability data** — a sentiment/risk thermometer. It does **not** constitute investment advice and is **not** a trading signal. All data comes from third-party public APIs; accuracy and availability depend on the source. Markets carry risk.
-
----
-
-## Support
-
-If this tool saved you time, a coffee is appreciated ☕
-
-<p align="center">
-  <a href="https://buymeacoffee.com/simonlin1212"><img src="./assets/bmc-qr.png" width="180" alt="Buy Me a Coffee"></a>
-</p>
-
-> Need something that isn't here? Open an [Issue](https://github.com/simonlin1212/globalpercent/issues); sponsors' issues go first.
 
 ---
 
