@@ -17,6 +17,15 @@
   <img src="https://img.shields.io/badge/auth-zero-success.svg" alt="Zero Auth">
 </p>
 
+---
+
+**作者求职｜深圳 · 香港 · 远程**
+
+我是 Simon，专注于 AI Agent 与实用工具开发，正在寻找深圳、香港或远程工作机会。  
+欢迎联系：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)。
+
+---
+
 <p align="center">
   <a href="#架构一口气讲完">架构</a> ·
   <a href="#快速开始">快速开始</a> ·
